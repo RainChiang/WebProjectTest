@@ -5,9 +5,9 @@
     </head>
     <body>
         <?php
-        print 'Hello~~';
+        print 'Hello~~<br>';
         echo 'Hello again!!<br>';
-        echo 'Hello again!!';
+        echo "Hello 'again'!!";
         ?>
     </body>
 </html>
